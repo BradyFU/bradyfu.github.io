@@ -1,0 +1,6 @@
+@inproceedings{aot2020neurips,
+  title={AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection},
+  author={Hao Zhu, Chaoyou Fu, Qianyi Wu, Wayne Wu, Chen Qian, Ran He},
+  booktitle={NeurIPS},
+  year={2020}
+}
