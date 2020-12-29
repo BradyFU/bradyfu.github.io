@@ -1,6 +1,0 @@
-@article{fucy2020hash,
-  title={Deep Momentum Uncertainty Hashing},
-  author={Chaoyou Fu, Guoli Wang, Xiang Wu, Qian Zhang, Ran He},
-  journal={arXiv preprint},
-  year={2020}
-}

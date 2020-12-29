@@ -1,6 +1,0 @@
-@article{fucy2020dvgface,
-  title={DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition},
-  author={Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He},
-  journal={arXiv preprint},
-  year={2020}
-}

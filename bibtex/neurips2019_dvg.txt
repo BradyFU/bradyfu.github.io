@@ -1,6 +1,0 @@
-@inproceedings{fucy2020neurips,
-  title={Dual Variational Generation for Low Shot Heterogeneous Face Recognition},
-  author={Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He},
-  booktitle={NeurIPS},
-  year={2019}
-}
