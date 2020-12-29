@@ -128,11 +128,11 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: black;
 	margin-top: 0.8em;
 	margin-bottom: 0.4em;
 	line-height: 1.0;
-	/*border-bottom: 1px solid #aaaaaa;*/
+	border-bottom: none; /*border-bottom: 1px solid #aaaaaa;*/
 }
 
 h1 {
