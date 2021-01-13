@@ -1,6 +1,6 @@
-@article{fucy2019high,
+@article{fu2019high,
   title={High Fidelity Face Manipulation with Extreme Poses and Expressions},
-  author={Chaoyou Fu, Yibo Hu, Xiang Wu, Guoli Wang, Qian Zhang, Ran He},
+  author={Fu, Chaoyou and Hu, Yibo and Wu, Xiang and Wang, Guoli and Zhang, Qian and He, Ran},
   journal={TIFS},
   year={2020}
 }

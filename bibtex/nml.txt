@@ -1,6 +1,6 @@
-@inproceedings{fucy2019ijcai,
+@inproceedings{fu2018neurons,
   title={Neurons Merging Layer: Towards Progressive Redundancy Reduction for Deep Supervised Hashing},
-  author={Chaoyou Fu, Liangchen Song, Xiang Wu, Guoli Wang, Ran He},
+  author={Fu, Chaoyou and Song, Liangchen and Wu, Xiang and Wang, Guoli and He, Ran},
   booktitle={IJCAI},
   year={2019}
 }
