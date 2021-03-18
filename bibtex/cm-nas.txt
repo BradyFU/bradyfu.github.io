@@ -1,5 +1,5 @@
 @article{fu2021cmnas,
-  title={CM-NAS: Rethinking Cross-Modality Neural Architectures for Visible-Infrared Person Re-Identification},
+  title={CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification},
   author={Fu, Chaoyou and Hu, Yibo and Wu, Xiang and Shi, Hailin and Mei, Tao and He, Ran},
   journal={arXiv preprint:2101.08467},
   year={2021}
