@@ -2,5 +2,5 @@
   title={High Fidelity Face Manipulation with Extreme Poses and Expressions},
   author={Fu, Chaoyou and Hu, Yibo and Wu, Xiang and Wang, Guoli and Zhang, Qian and He, Ran},
   journal={TIFS},
-  year={2020}
+  year={2021}
 }
