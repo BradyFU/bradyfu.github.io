@@ -2,5 +2,5 @@
   title={Information Bottleneck Disentanglement for Identity Swapping},
   author={Gao, Gege and Huang, Huaibo and Fu, Chaoyou and Li, Zhaoyang and He, Ran},
   booktitle={CVPR},
-  year={20201}
+  year={2021}
 }
