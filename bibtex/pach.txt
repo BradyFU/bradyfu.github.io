@@ -1,6 +1,0 @@
-@inproceedings{duan2020cross,
-  title={Cross-Spectral Face Hallucination via Disentangling Independent Factors},
-  author={Duan, Boyan and Fu, Chaoyou and Li, Yi and Song, Xingguang and He, Ran},
-  booktitle={CVPR},
-  year={2020}
-}

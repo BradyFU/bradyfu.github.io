@@ -1,6 +1,0 @@
-@inproceedings{fu2019dual,
-  title={Dual Variational Generation for Low Shot Heterogeneous Face Recognition},
-  author={Fu, Chaoyou and Wu, Xiang and Hu, Yibo and Huang, Huaibo and He, Ran},
-  booktitle={NeurIPS},
-  year={2019}
-}

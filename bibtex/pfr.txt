@@ -1,6 +1,0 @@
-@inproceedings{song2021everything,
-  title={Pareidolia Face Reenactment},
-  author={Song, Linsen and Wu, Wayne and Fu, Chaoyou and Qian, Chen and Loy, Chen Change and He, Ran},
-  booktitle={CVPR},
-  year={2021}
-}

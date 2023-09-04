@@ -1,6 +1,0 @@
-@inproceedings{fu2021cmnas,
-  title={CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification},
-  author={Fu, Chaoyou and Hu, Yibo and Wu, Xiang and Shi, Hailin and Mei, Tao and He, Ran},
-  booktitle={ICCV},
-  year={2021}
-}

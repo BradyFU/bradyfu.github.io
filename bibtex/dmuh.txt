@@ -1,6 +1,0 @@
-@inproceedings{fu2020dmuh,
-  title={Deep Momentum Uncertainty Hashing},
-  author={Fu, Chaoyou and Wang, Guoli and Wu, Xiang and Zhang, Qian and He, Ran},
-  booktitle={Pattern Recognition},
-  year={2021}
-}
